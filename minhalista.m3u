@@ -1,0 +1,21 @@
+#EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+#PLAYLIST:TV Meu Tédio
+## 👩🏽‍💻 Editora: Helen Fernanda - Goiânia - Brasil 🇧🇷
+## 🔗 Dicas de EPG - apps: www.meutedio.com.br/iptv
+## 📧 Contato e 💰 Pix: meutedio@mail.com
+## 🆕 05-agosto-2022 | Canais *Miami TV* foram para a categoria de *Reality e game shows em espanhol*.
+## 🆕 04-agosto-2022 | Mudança de nome de grupo: *Novelas e séries em espanhol: maratona* agora se chama *Maratona de episódios em espanhol*.
+## 🆕 04-agosto-2022 | Mudança de nome de grupo: *Novelas e séries em inglês: maratona* agora se chama *Maratona de episódios em inglês*.
+## 🆕 04-agosto-2022 | Novos canais brasileiros: Canal Plural e Mais Favela TV.
+## 🆕 04-agosto-2022 | Vários novos canais Pluto TV em inglês e espanhol. Confira todos eles no grupo *A novidade*.
+## 🆕 03-agosto-2022 | Biography Pluto TV Reino Unido agora se chama Music e está na categoria de Celebridades.
+## 🆕 02-agosto-2022 | Novos canais: RBA TV - TV Brasil; Discover Film; Gravitas Adrenaline; Gravitas Movies; Gravitas Documentaries; Documentary+; Horrorfy; Trailers From Hell; True Crime Now; Unexplained; Wonder; i24 News Updates; Todo Life; Todo Crimen; Commune
+## 🆕 30-julho-2022 | Novos canais: Lone Star; Classic Rock Network; The Film Detective; Go See Westers; Party Poker; Bowery Classics; Gago TV; Animax
+##### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
+#EXTINF:-1 tvg-id="5d4af2a24f1c5ab2d298776b" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="A novidade",Music | Celebridades e cultura pop em inglês
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Brasil: cinema em português",Cindie Lite
