@@ -41,25 +41,25 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0
 #EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Filmes",Cine Clássicos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Ação | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Comédia | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes",RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
-#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes",DarkFlix HD | Brasil
+#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes",DarkFlix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEaW5zX.png" group-title="Filmes",Dark Matter TV | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEaW5zX.png" group-title="Filmes",Dark Matter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpPZJWy.png" group-title="Filmes",Fronteira Movies
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Filmes",MyTime Movie Network | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Filmes",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Filmes",Revry Brasil
@@ -68,10 +68,10 @@ http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Filmes",Cindie Lite
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CrVUxYU.png" group-title="Filmes",Cine Life Classic | Brasil 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrVUxYU.png" group-title="Filmes",Cine Life Classic
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Filmes",Soul Cine Clube | Brasil 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Filmes",Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #### Séries ####
@@ -81,7 +81,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1
 
 #### Variedades ###
 
-#EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="Variedades",Paramount+ Apresenta
+#EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="Variedades",Paramount+
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Variedades",O encantador de cães
