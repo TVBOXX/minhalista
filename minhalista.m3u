@@ -85,15 +85,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8c
 #EXTINF:-1 tvg-id="62cd9e5a5c38c00007f5669a" tvg-logo="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/colorLogoPNG.png" group-title="51.Documentários",Quebrando o Tabu
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5c38c00007f5669a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="51.Documentários",Smithsonian Channel https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-
-
-#EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="A novidade",Smithsonian Channel - legendado | Brasil: educativos e documentários
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-
-
-
+#EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="51.Documentários",Smithsonian Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 
 #### 61.Cine ####
